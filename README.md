@@ -6,6 +6,7 @@ I'm still working on this.
 
 Yet to be put on here:
 * CV
-* Blog posts
+* Blog maybe?
+* Other stuff
 
 Personal site: <https://rach.sh>
