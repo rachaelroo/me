@@ -1,9 +1,11 @@
 # Info
 My personal info site
+***
 
-If you want to go directly to my zettelkasten (I'm still new to this!):
-* https://github.com/rachaelroo/me/tree/main/zet/
+I'm still working on this.
 
 Yet to be put on here:
 * CV
 * Blog posts
+
+Personal site: <https://rach.sh>
